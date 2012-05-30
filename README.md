@@ -1,4 +1,4 @@
 lpi_project_files
 =================
 
-files for lpi courseware
+This git is for containg the files for the LPI courseware
