@@ -1,0 +1,43 @@
+Project Overview
+################
+
+The Linux Professional Institute recently announced the creation of a new certificate in their range.
+
+This certificate is called the Linux Essentials.
+
+They have described it as the following:
+
+".......Created in partnership with a community of teachers,trainers and experts world-wide. 
+	The "Linux Essentials" program prepares the next generation to acquire the advanced skills needed to fill increasing shortages of workers in today’s mixed IT environments. 
+	It supports government and educational authorities bringing Linux and Open Source to the classroom at much younger ages. 
+	Supporting learning and fun through skills competitions like World Skills and Euroskills. Supporting international collaboration and the development of teacher-tested 
+	educational initiatives for the classroom...." ( http://www.lpi.org/linux-certifcations/introductory-programs/linux-essentials )
+
+To be awarded this certification the student must demonstrate the following:
+
+	Understands the basic concepts of processes, programs and the components of an Operating System.
+	Has a basic knowledge of computer hardware
+	Demonstrates a knowledge of Open Source Applications in the Workplace as they relate to Closed Source equivalents.
+	Understands navigation systems on a Linux Desktop and where to go for help.
+	Has a rudimentary ability to work on the command line and with files.
+	Can use a basic command line editor.
+
+Project Aim
+###########
+
+The aim of this project is to create a 'package' of study to enable the taking and passing of the exam.
+
+This package would ideally consist of:
+
+	A series of presentations
+	Teacher Notes
+	Student Notes availible for handout etc.
+
+Once complete a potential user should be able to grab the package and either use it to self-study, teach or adapt to their own needs.
+
+As mentioned above the main presentations should be created in a powerpoint, sorry, format to allow the subject to be taught.
+
+The Teacher notes should follow the current topic and provide a guide for the teacher to flesh out the slide a bit. This is important to get right as the teacher may not have
+a lot of experience in the topic area.
+
+The student notes should take the form of the keypoints from the topic allowing them to study and learn.

@@ -1,0 +1,243 @@
+The following is the original idea email as sent to the Blackpool LUG mailing list:
+
+Afternoon,
+
+	As you have no doubt seen or heard via the normal channels The Linux
+Professional Institute have announced the Linux Essentials Program.
+
+This is aimed at new users to give them a basic foundation in Linux and
+in Open Source Software. This presents a great opportunity for the LUG.
+
+Over the last few years I have gained my Intermediate Licence in
+Amateur Radio. One of the ways you can study for this is via a local
+maturer radio group following a set syllabus.
+Some groups have managed to get organised enough to produce powerpoint
+presentations of the core lessons and run courses. These courses
+normally last a short period of time.
+An example of which can be found @
+
+www.g0mwt.org.uk/training/courses/foundation.htm
+
+The opportunity for the LUG would be to create a similar approach to
+this system but with regards to the new certifications.
+
+Following the syllabus ( wiki.lpi.org/wiki/LinuxEssentials ) we could
+create and maintain a training package allowing either individuals or
+other groups to use and learn and teach.
+This could also lead to the LUG being able to offer the course over a
+period of time to anyone who wanted to gain the qualification
+(Obviously the student would be liable for the exam fee, roughly
+£30-40 at the moment).
+
+What I propose is that we could create a presentation, handouts...in
+effect a full package that would be available for all to use.
+
+As you can see in the wiki link the syllabus is already broken down
+into topics and the presentation creation could be tackled on a topic
+by topic basis
+
+Any thoughts or feedback?
+
+
+Michael
+
+##########################################################################################################
+
+link: https://plus.google.com/100694334141523232451/posts/PtDgkhBpiKF
+
+The following is a transcript of the G+ conversation discussing the idea:
+
+Peter Cannon10:26  -  Public
+Copied from Twitter: +Les Pounder ‏biglesp
+New idea for towerlug Let's create a guide to completing the Linux Essentials course using the syllabus http://wiki.lpi.org/wiki/LinuxEssentials & do the exam
+
+LinuxEssentials - LPI Wiki »
+Introduction and Exam Development Workshops. The description of the entire Linux Essentials Programme programme is listed here. The purpose of the Linux Essentials Certificate is to define the basic k...
+Hide comments
+
+Michael Rimicans10:29
+Aye, its an idea I had and +Les Pounder has nudged me into proposing something:
+
+http://mailman.lug.org.uk/pipermail/blackpool/2012q2/001048.html
+
+
+Afternoon,
+
+As you have no doubt seen or heard via the normal channels The Linux Professional Institute have announced the Linux Essentials Program.
+
+<snip same as email above>
+
+
+Any thoughts or feedback?
+
+
+Michael﻿
+Collapse this comment
+
+David Nelson10:30
+Sounds like a great idea to me, I might see whether my lug might be interested in doing something similar.﻿
+
+Michael Rimicans10:33
+I think the aim is to produce the course and allow anyone to grab it and adapt it to there needs. 
+
+It seems simple enough to do over a short period of time and then sit the exam﻿
+
+Morten Juhl-Johansen Zőlde-Fejér10:35
+This is an awesome idea. How many active people do you have in the LUG?﻿
+
+Les Pounder10:36
+We have 6 active people at Blackpool LUG, with a few remote members joining us via a hangout each week﻿
+
+David Nelson10:37
++Michael Rimicans I think if we took a multimedia approach then it could be a nice opportunity for a cooperative effort between lugs too to produce and share the materials.﻿
+
+Les Pounder10:41
++David Nelson Good idea﻿
+
+Peter Cannon10:42
+I must have misread your post on Twitter? I was under the impression you would do a kind of hand holding class probably via Google Hangouts to cover the course in the hope of getting people to test standard?
+
+A. I would have done that.
+B. While of course all lugs can 'do their own' but as Pete says "The world is my Lug." so hangouts is perfect for this and does not require any localisation apart from that foreign lingo what them Americans speak. :-)﻿
+Collapse this comment
+
+Michael Rimicans10:42+1
+I was more thinking for version 1 to consist of a package of presentation, presenter notes and student handouts and letting it develop from there.
+
+Mainly this approach could provide a foundation for other LUGS to chip in and improve it and add new features.
+
+Just think this could develop into a VM approach that a user could learn on.﻿
+
+Michael Rimicans10:44
++Peter Cannon, Once its finished, then your LUG could grab the files and adapt it to there needs.﻿
+
+Peter Cannon10:46
++Michael Rimicans Given Wolves lug, I believe Linc's Lug and a few others meet in a pub I'm not sure how this would work?﻿
+
+Morten Juhl-Johansen Zőlde-Fejér10:50
+There are huge differences...
+I get the impression that most people in my LUG are Linux users like myself who get all their tools from that box but are unlikely to get into the professionally technical side.﻿
+
+Michael Rimicans10:50
+Well, perhaps in this respect it could develop into an online course then via hangouts﻿
+
+Les Pounder10:55
++Peter Cannon A lot of LUGs meet in pubs/meeting halls, so there is an issue on how to deliver the content to these groups. From what +Michael Rimicans is saying, Blackpool LUG will create a guide, based on the syllabus, the guide can be delivered via a presentation / handouts. Or could be used to deliver training over a hangout. How other LUGs use the material, would depend on their structure and availability of venues in their area.﻿
+
+David Nelson10:55
+I'm not a Linux professional but I think doing a course like this would provide a good framework for learning about some features that I've missed out on the way. Even with the more beer-and-bytes socially-orientated lugs, most people who attend are there to learn something new about a topic that interests them.﻿
+
+Michael Rimicans10:57
+Also, with respect to the target audience of this course, this could be used by schools who want to teach the subject.
+
+If there is something already easily available to use then the first hurdle of getting the subject considered or taught will be jumped.﻿
+
+David Nelson11:04+2
++Les Pounder you're right about that being an issue, this is what I had in mind about a multimedia approach. If there was a repository broken down my topic from the lpi, different kinds of materials can be collected together to be used as appropriate for each lug such as video, slides, documentation, podcasts, web links assignments and so on.﻿
+
+Michael Rimicans11:08
++David Nelson, I think the repository route would be the most efficient way of distribution
+
+essentials
+|
+|
+|__Full Course
+|
+|
+|_ Broken down Course|
+|_Part1
+|
+|_Part2 
+etc...etc..﻿
+Collapse this comment
+
+Peter Cannon11:11 (ed)+1
++Michael Rimicans I honestly think you and Les have the ability to teach people, this is in fact where there is a gap in the 'freedom' market.
+
+(I cant believe as a sales bastard I'm about to say this.)
+
+There are numerous body's out there that will train you for a price. Given we are all supposed to be freetard fanboys the only one I ever came across was a USA Lug that I talked about and linked to in EP3 "They like you more than me" +The Dick Turpin Road Show (The link appears to be dead now. :-(
+
+Yes there is a plethora of self help stuff out there but nobody is offering to do a teacher based course for Libre (Free) as far as I know.﻿
+Collapse this comment
+
+Morten Juhl-Johansen Zőlde-Fejér11:14
+What I find is that I can probably find some teachers if the materials are available in an accessible form. So solid, professionally done teaching materials is a major key, I think.﻿
+
+Michael Rimicans11:18
+Tut, as a sales bastard you had to name drop the the dick turpin roadshow :D
+
+But, Nail hit on head...there is a lot of courses that will train you for a price out there and selfhelp books but nothing already produced allowing you to crack on in both senses of the word free.
+
+In my previous employment there was a type of training called cascade training...in effect people went on the course, became jedi's in the subject and came back to train everyone else in the subject allowing a large number of people to be trained relatively quickly.
+
+This is why I think the package should be created following the syllabus allowing anyone to grab it and run there own course in whatever way they want...they could use it as a template, use only part of it or use the lot. 
+
+This should be seen as a seed project...get the thing out there and let it blossom﻿
+Collapse this comment
+
+Wolf Weber11:21
+The best to start understanding Linux is beginning with a few major points.
+Once you understand these concepts, the rest is only reading and trying out.
+- The general idea that Linux is only the kernel and its modules and all the rest is only part of a UI.
+- The multiuser concept of Linux
+- The general concept of Unix/Linux file permissions (which will make you understand that there are NO user-rights in the system)
+- Everything is a file
+- The general concept of the ACLs
+- The logical and name-structure of drive and partition names
+- There are NO drive letters
+- The general concept of the Filesystem Hierarchy Standard (FHS).
+- The general structure of the shell commands (incl. the fact that the majority of commands are not commands but only applications)﻿
+Collapse this comment
+
+Michael Rimicans11:30
++Wolf Weber, The main aim of the essentials course is as follows:
+
+' The purpose of the Linux Essentials Certificate is to define the basic knowledge required to competently use a desktop or mobile device using a Linux Operating System. The associated Linux Essentials Program will guide and encourage youth (and those new to Linux and Open Source) to understand the place of Linux and Open Source in the context of the broader IT industry. '
+
+http://wiki.lpi.org/wiki/LinuxEssentials
+
+This certificate is aimed mainly at people who may not have any experience of Linux and just need a basic foundation of understanding in the subject.
+
+Alot of what you mention is covered in the later LPI exams and could be considered as out of scope for a qualification at this level.
+
+Get them 'hooked' at this level and then they can, if interested, dig further into the the subject.﻿
+Expand this comment »
+
+Peter Cannon11:54
++Michael Rimicans See this is why you'll make a rubbish sales person. You cant differentiate between Sales "Oi buy this you gimp." and Marketing "Look at this you mollusc!" :-P﻿
+
+Les Pounder11:56
+I've contacted a local ICT teacher, who is a good friend of mine +Alan O'Donohoe to provide some input on how to successfully teach the subject. He has experience of teaching ICT to children and adults, and is spearheading Raspberry Jams and Python programming around the UK.﻿
+
+Michael Rimicans11:57
+hmmm. raspberry python jam
+
+brb, off to the sandwich shop :)﻿
+
+Peter Cannon11:58
++Les Pounder Oh god that means we'll have to wait eight months from time of announcement to actual delivery! :-D﻿
+
+David Nelson11:58
++Michael Rimicans - first man to be eaten by a sandwich﻿
+
+Michael Rimicans12:00
+It would be have to be a brave and quick sandwich﻿
+
+David Nelson12:03
+you might be ok then, Pythons aren't known for their speed﻿
+
+Les Pounder12:03
++Peter Cannon No you won't mate, Alan is in no way affiliated with Raspberry Pi, he ran Hack to the Future in Preston.﻿
+
+Wolf Weber12:23
++Michael Rimicans I've passed all LPI-1 and LPI-2 exams successfully. :))
+I just wanted to show up the lowest level of understanding to become slightly familar with Linux outside of any exams.
+
+According to my humble experience after conducting several hundred lectures and workshops about Linux, ranging from scratch level to exam preparation, in the last 10 years, the topics I've named are essential for a basic understanding, a basic ability to handle a Linux without frustration and to make the people curious to dig deeper.
+Especially for the people switching from long years Windows using to Linux.
+
+To catch these (maybe slightly incomplete) few topics as a first contact on the way to become successfull with Linux (or every other unixoide) take only app. 3 days or 18 hours (3x6) of effective work time.
+
+I've mentioned these few topics also, because I'v seen a lot of very frustrated people who have spend gazillion hours with learning but failed to understand the different concept and philosophy, especially in the group of somewhat experienced, Windows Admins or Users.﻿
+Collapse this comment
